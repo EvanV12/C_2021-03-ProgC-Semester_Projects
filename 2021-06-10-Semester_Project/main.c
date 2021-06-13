@@ -10,8 +10,11 @@
 int main(int argc, char* argv[])
 {
     if (argc != 4) {
-        printf("\n\nInvalid Arguements\n");
-        printf("\nUsage: encrypt sourceFile destinationFile key\n\n");
+        line(2);
+        printf("Invalid Arguements");
+        line(2);
+        printf("Usage: encrypt sourceFile destinationFile key");
+        line(2);
     }
     else {
         // des an uparxei to arxeio argv[1] kai anoije to gia anagnosi

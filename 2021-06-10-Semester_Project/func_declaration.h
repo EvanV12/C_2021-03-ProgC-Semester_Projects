@@ -1,1 +1,1 @@
-#pragma once
+void line(int a);
