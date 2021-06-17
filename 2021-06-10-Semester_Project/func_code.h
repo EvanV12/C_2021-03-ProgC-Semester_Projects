@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 //void line1() {printf("\n");}
 //void line2() { printf("\n\n"); }
 //void line2() { printf("\n\n\n"); }
@@ -28,3 +30,14 @@ void line(int a) {
 
 }
 
+
+int checkIfFileExists(const char* filename) {
+	FILE* file;
+	if (file = fopen(filename, "r"))
+	{
+		fclose(file);
+		return 1;
+	}
+
+	return 0;
+}

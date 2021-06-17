@@ -24,10 +24,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5842314f-1167-4d33-b470-2daabced4b98}</ProjectGuid>
-    <RootNamespace>My20210610BEncryption</RootNamespace>
+    <ProjectGuid>{ce2ca8ed-a33a-45f0-9afb-24c73ef1f8bf}</ProjectGuid>
+    <RootNamespace>My20210617FileHandlingTest</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>2021-06-10-B_Encryption_int</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

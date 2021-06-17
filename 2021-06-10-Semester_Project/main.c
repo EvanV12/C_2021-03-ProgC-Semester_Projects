@@ -6,9 +6,24 @@
 #include "func_declaration.h"
 #include "func_code.h"
 
+int lengthOfKey(char m[]) {
+    int i;
+    for (i = 0; m[i] != '\0'; i++);
+    return i - 1;
+}
 
-int main(int argc, char* argv[])
-{
+
+int main(int argc, char* argv[]) {
+
+
+    char sourceFile[300], destinationFile[300], key[20];
+    
+
+
+    printf("Enter command: ");
+    scanf("%s %s %s %s");
+
+
     if (argc != 4) {
         line(2);
         printf("Invalid Arguements");
@@ -18,6 +33,11 @@ int main(int argc, char* argv[])
     }
     else {
         // des an uparxei to arxeio argv[1] kai anoije to gia anagnosi
+        if (checkIfFileExists(sourceFile)) {
+            fopen(sourceFile, "r");
+            destinationFile = sourceFile;
+
+        }
         // dimiourgise to arxeio argv[2] kai anoije to gia eggrafi
 
         while (!eof(argv[1])) {
