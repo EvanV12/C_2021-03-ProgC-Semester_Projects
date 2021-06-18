@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2021-06-10-B_Encryption_str
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2021-06-17-File_Handling_Test", "2021-06-17-File_Handling_Test\2021-06-17-File_Handling_Test.vcxproj", "{CE2CA8ED-A33A-45F0-9AFB-24C73EF1F8BF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part1", "Part1\Part1.vcxproj", "{D481AD34-D662-4F0E-BFE9-62C93F37F2EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{CE2CA8ED-A33A-45F0-9AFB-24C73EF1F8BF}.Release|x64.Build.0 = Release|x64
 		{CE2CA8ED-A33A-45F0-9AFB-24C73EF1F8BF}.Release|x86.ActiveCfg = Release|Win32
 		{CE2CA8ED-A33A-45F0-9AFB-24C73EF1F8BF}.Release|x86.Build.0 = Release|Win32
+		{D481AD34-D662-4F0E-BFE9-62C93F37F2EC}.Debug|x64.ActiveCfg = Debug|x64
+		{D481AD34-D662-4F0E-BFE9-62C93F37F2EC}.Debug|x64.Build.0 = Debug|x64
+		{D481AD34-D662-4F0E-BFE9-62C93F37F2EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{D481AD34-D662-4F0E-BFE9-62C93F37F2EC}.Debug|x86.Build.0 = Debug|Win32
+		{D481AD34-D662-4F0E-BFE9-62C93F37F2EC}.Release|x64.ActiveCfg = Release|x64
+		{D481AD34-D662-4F0E-BFE9-62C93F37F2EC}.Release|x64.Build.0 = Release|x64
+		{D481AD34-D662-4F0E-BFE9-62C93F37F2EC}.Release|x86.ActiveCfg = Release|Win32
+		{D481AD34-D662-4F0E-BFE9-62C93F37F2EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
