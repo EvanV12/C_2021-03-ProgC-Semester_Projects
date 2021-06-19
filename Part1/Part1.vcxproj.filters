@@ -18,5 +18,8 @@
     <ClCompile Include="2021-03-02_int_addition.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2021-03-04-A_int_comparison.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
