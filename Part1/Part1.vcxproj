@@ -22,6 +22,7 @@
     <ClCompile Include="2021-03-02_int_addition.c" />
     <ClCompile Include="2021-03-04-A_int_comparison.c" />
     <ClCompile Include="2021-05-20-A_Student_Stats.c" />
+    <ClCompile Include="2021-05-20-B_Loops.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

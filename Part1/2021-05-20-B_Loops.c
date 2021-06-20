@@ -18,7 +18,7 @@ int main()
     for (i = 1; i <= n; i++)
         for (j = 1; j <= i; j++) {
             sum += j;
-            printf("%5d %5d\n", i, j); // to see the loops
+            // printf("%5d %5d\n", i, j); // to see the loops
         }
     printf("\nSum = %d\n", sum);
 

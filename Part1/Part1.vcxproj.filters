@@ -24,5 +24,8 @@
     <ClCompile Include="2021-05-20-A_Student_Stats.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2021-05-20-B_Loops.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
