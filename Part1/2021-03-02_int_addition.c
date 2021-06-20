@@ -3,7 +3,7 @@
 
 //remove 0 from main to play
 
-int main0(void) {
+int main32A(void) {
 
 	int a, b;
 

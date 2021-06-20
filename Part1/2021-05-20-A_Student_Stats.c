@@ -4,7 +4,7 @@
 //remove 0 from main to play
 
 
-int main()
+int main520A()
 {
 
     int students = 22, grade = 0, mainCounter = 0, passCounter = 0, failcounter = 0, gradeTotal = 0, gradeAverage = 0, error;
@@ -40,5 +40,4 @@ int main()
 
     return 0;
 }
-
 

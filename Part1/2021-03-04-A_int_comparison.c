@@ -3,7 +3,7 @@
 
 //remove 0 from main to play
 
-int main0() {
+int main34A() {
 
 	int a, b;
 
@@ -26,6 +26,7 @@ int main0() {
 	// else if (a=b){
 	//     printf("Οι αριθμοί είναι ίσοι.");
 	// }
-// return 0;
+
+	return 0;
 }
 
