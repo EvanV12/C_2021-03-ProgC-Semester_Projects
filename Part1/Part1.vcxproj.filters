@@ -30,5 +30,8 @@
     <ClCompile Include="2021-05-20-C_Arrays_Theory_example.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2021-05-27-A_Unofficial-Example_of_game.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
