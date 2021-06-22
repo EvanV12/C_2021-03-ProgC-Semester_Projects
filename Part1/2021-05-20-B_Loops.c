@@ -4,7 +4,7 @@
 //remove 0 from main to play
 
 
-int main()
+int main0520b()
 {
 
     // by prof

@@ -27,5 +27,8 @@
     <ClCompile Include="2021-05-20-B_Loops.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2021-05-20-C_Arrays_Theory_example.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
