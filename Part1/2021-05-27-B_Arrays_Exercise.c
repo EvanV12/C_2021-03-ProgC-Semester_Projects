@@ -3,9 +3,12 @@
 Στη συνέχεια, το πρόγραμμα θα μας εκτυπώνει τους αριθμούς αυτούς, καθώς και το άθροισμα και το μέσο όρο τους.
 */
 
+#pragma warning(disable : 4996)
 #include <stdio.h>
 
-int main()
+//remove 0 from main to play
+
+int main0527b()
 {
     int a[10], i, sum;
     float avg = 0;
