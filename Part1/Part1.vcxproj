@@ -26,6 +26,7 @@
     <ClCompile Include="2021-05-20-C_Arrays_Theory_example.c" />
     <ClCompile Include="2021-05-27-A_Unofficial-Example_of_game.c" />
     <ClCompile Include="2021-05-27-B_Arrays_Exercise.c" />
+    <ClCompile Include="2021-05-27-C_Arrays_Exercise.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
