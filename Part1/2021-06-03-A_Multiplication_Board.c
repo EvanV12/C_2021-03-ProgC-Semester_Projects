@@ -1,6 +1,9 @@
+#pragma warning(disable : 4996)
 #include <stdio.h>
 
-int main()
+//remove 0 from main to play
+
+int main0603a()
 {
     int prop[10][10];
     int i, j, sum;

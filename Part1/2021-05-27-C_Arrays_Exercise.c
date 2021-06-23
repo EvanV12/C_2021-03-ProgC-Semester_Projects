@@ -17,7 +17,7 @@
 
 // DOESN'T RUN RIGHT, CHECK
 
-int main()
+int main0527c()
 {
     int max[15], i, sum, error;
     float avg = 0;

@@ -39,5 +39,8 @@
     <ClCompile Include="2021-05-27-C_Arrays_Exercise.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2021-06-03-A_Multiplication_Board.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
