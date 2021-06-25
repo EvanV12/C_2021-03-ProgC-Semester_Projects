@@ -42,5 +42,13 @@
     <ClCompile Include="2021-06-03-A_Multiplication_Board.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2021-06-03-B_Arrays_exercise_IMPORTANT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="2021-06-03-B_Exercise_Instructions.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
