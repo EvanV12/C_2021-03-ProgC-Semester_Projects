@@ -1,9 +1,14 @@
+#pragma warning(disable : 4996)
 #include <stdio.h>
+
 #include <time.h>
 #include <stdlib.h>
 #define SIZE 5
 
-int main()
+//remove 0 from main to play
+
+
+int main0603bb()
 {
     int pin[SIZE][SIZE];
     int i, j, sum, plithos;

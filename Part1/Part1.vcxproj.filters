@@ -45,9 +45,12 @@
     <ClCompile Include="2021-06-03-B_Arrays_exercise_IMPORTANT.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2021-06-03-B_Arrrays_BY_PROF_WayA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="2021-06-03-B_Exercise_Instructions.h">
+    <ClInclude Include="2021-06-03-B_AExercise_Instructions.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

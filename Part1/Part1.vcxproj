@@ -29,9 +29,10 @@
     <ClCompile Include="2021-05-27-C_Arrays_Exercise.c" />
     <ClCompile Include="2021-06-03-A_Multiplication_Board.c" />
     <ClCompile Include="2021-06-03-B_Arrays_exercise_IMPORTANT.c" />
+    <ClCompile Include="2021-06-03-B_Arrrays_BY_PROF_WayA.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="2021-06-03-B_Exercise_Instructions.h" />
+    <ClInclude Include="2021-06-03-B_AExercise_Instructions.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
