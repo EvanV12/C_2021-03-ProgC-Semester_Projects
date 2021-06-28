@@ -32,6 +32,7 @@
     <ClCompile Include="2021-06-03-B_Arrrays_BY_PROF_WayA.c" />
     <ClCompile Include="2021-06-03-B_Arrrays_BY_PROF_WayB.c" />
     <ClCompile Include="2021-06-03-C_Rand.c" />
+    <ClCompile Include="2021-06-03-D_Exercise.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2021-06-03-B_AExercise_Instructions.h" />

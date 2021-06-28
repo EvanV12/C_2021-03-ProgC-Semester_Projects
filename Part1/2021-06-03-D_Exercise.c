@@ -5,10 +5,16 @@
 Β. Να εκτυπώνει τους χαρακτήρες που βρίσκονται στις μονές θέσεις του κειμένου.
 
 */
+#pragma warning(disable : 4996)
 #include <stdio.h>
+
+#include <time.h>
+#include <stdlib.h>
 #define N 10
 
-int main()
+//remove 0 from main to play
+
+int main0603d()
 {
 
     char name[N];
@@ -30,7 +36,7 @@ int main()
         printf("%c", name[i]);
     }
 
-        
+
     return 0;
 }
 
