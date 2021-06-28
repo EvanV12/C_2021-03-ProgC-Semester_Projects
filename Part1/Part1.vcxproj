@@ -31,6 +31,7 @@
     <ClCompile Include="2021-06-03-B_Arrays_exercise_IMPORTANT.c" />
     <ClCompile Include="2021-06-03-B_Arrrays_BY_PROF_WayA.c" />
     <ClCompile Include="2021-06-03-B_Arrrays_BY_PROF_WayB.c" />
+    <ClCompile Include="2021-06-03-C_Rand.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2021-06-03-B_AExercise_Instructions.h" />
