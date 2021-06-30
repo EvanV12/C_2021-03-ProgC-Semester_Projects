@@ -57,6 +57,9 @@
     <ClCompile Include="2021-06-03-D_Exercise.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2021-06-10-A_Encryption.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2021-06-03-B_AExercise_Instructions.h">
