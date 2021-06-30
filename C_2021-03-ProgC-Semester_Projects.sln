@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2021-06-10-Semester_Project", "2021-06-10-Semester_Project\2021-06-10-Semester_Project.vcxproj", "{C4569754-1B2C-41C1-BB81-3E1F845A6FF8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2021-06-10-B_Encryption_int", "2021-06-10-B_Encryption\2021-06-10-B_Encryption.vcxproj", "{5842314F-1167-4D33-B470-2DAABCED4B98}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2021-06-10-C_Exercise_functions", "2021-06-10-C_Encryption\2021-06-10-C_Encryption.vcxproj", "{9A555067-0765-4CA3-B0AC-A71954486D4B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2021-06-10-B_Encryption_string", "2021-06-10-B_Encryption_string\2021-06-10-B_Encryption_string.vcxproj", "{79935862-D8C9-4CD5-BA83-9EFE85948A81}"
@@ -31,14 +29,6 @@ Global
 		{C4569754-1B2C-41C1-BB81-3E1F845A6FF8}.Release|x64.Build.0 = Release|x64
 		{C4569754-1B2C-41C1-BB81-3E1F845A6FF8}.Release|x86.ActiveCfg = Release|Win32
 		{C4569754-1B2C-41C1-BB81-3E1F845A6FF8}.Release|x86.Build.0 = Release|Win32
-		{5842314F-1167-4D33-B470-2DAABCED4B98}.Debug|x64.ActiveCfg = Debug|x64
-		{5842314F-1167-4D33-B470-2DAABCED4B98}.Debug|x64.Build.0 = Debug|x64
-		{5842314F-1167-4D33-B470-2DAABCED4B98}.Debug|x86.ActiveCfg = Debug|Win32
-		{5842314F-1167-4D33-B470-2DAABCED4B98}.Debug|x86.Build.0 = Debug|Win32
-		{5842314F-1167-4D33-B470-2DAABCED4B98}.Release|x64.ActiveCfg = Release|x64
-		{5842314F-1167-4D33-B470-2DAABCED4B98}.Release|x64.Build.0 = Release|x64
-		{5842314F-1167-4D33-B470-2DAABCED4B98}.Release|x86.ActiveCfg = Release|Win32
-		{5842314F-1167-4D33-B470-2DAABCED4B98}.Release|x86.Build.0 = Release|Win32
 		{9A555067-0765-4CA3-B0AC-A71954486D4B}.Debug|x64.ActiveCfg = Debug|x64
 		{9A555067-0765-4CA3-B0AC-A71954486D4B}.Debug|x64.Build.0 = Debug|x64
 		{9A555067-0765-4CA3-B0AC-A71954486D4B}.Debug|x86.ActiveCfg = Debug|Win32

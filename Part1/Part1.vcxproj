@@ -34,6 +34,7 @@
     <ClCompile Include="2021-06-03-C_Rand.c" />
     <ClCompile Include="2021-06-03-D_Exercise.c" />
     <ClCompile Include="2021-06-10-A_Encryption.c" />
+    <ClCompile Include="2021-06-10-B_Encryption_int.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2021-06-03-B_AExercise_Instructions.h" />
