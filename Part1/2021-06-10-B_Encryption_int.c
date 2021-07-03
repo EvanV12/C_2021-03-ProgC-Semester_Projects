@@ -1,3 +1,6 @@
+#pragma once
+#pragma warning(disable:4996)
+
 #include <stdio.h>
 //me don't know if correct
 int main0610bi()
