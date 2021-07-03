@@ -9,7 +9,7 @@ int strLength(char m[]) {
     return i - 1;
 }
 
-int main() {
+int main0610bs() {
     char t[300], key[20];
     int  i, len;
 
