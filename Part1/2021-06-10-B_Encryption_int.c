@@ -1,6 +1,6 @@
 #include <stdio.h>
 //me don't know if correct
-int main()
+int main0610bi()
 {
 
     char t[300];
