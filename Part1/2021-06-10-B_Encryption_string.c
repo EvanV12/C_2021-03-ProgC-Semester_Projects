@@ -38,3 +38,4 @@ int main0610bs() {
 
     return 0;
 }
+

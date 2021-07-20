@@ -7,7 +7,6 @@
 //remove 0 from main to play
 
 
-
 int main0603c()
 {
     srand(15);
@@ -17,5 +16,4 @@ int main0603c()
 
         return 0;
 }
-
 
