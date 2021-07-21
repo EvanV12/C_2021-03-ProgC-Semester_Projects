@@ -41,3 +41,4 @@ int checkIfFileExists(const char* filename) {
 
 	return 0;
 }
+
