@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\2021-06-10-C_Exercise_functions">
+      <UniqueIdentifier>{78408f81-7cf9-43a3-8b8e-68ed42db45b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2021-03-02_int_addition.c">
@@ -66,10 +69,19 @@
     <ClCompile Include="2021-06-10-B_Encryption_string.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\2021-06-10-Exercise functions\main.c">
+      <Filter>Source Files\2021-06-10-C_Exercise_functions</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2021-06-03-B_AExercise_Instructions.h">
       <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\2021-06-10-Exercise functions\func_code.h">
+      <Filter>Source Files\2021-06-10-C_Exercise_functions</Filter>
+    </ClInclude>
+    <ClInclude Include="..\2021-06-10-Exercise functions\func_declaration.h">
+      <Filter>Source Files\2021-06-10-C_Exercise_functions</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

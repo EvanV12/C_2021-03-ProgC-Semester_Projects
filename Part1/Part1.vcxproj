@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\2021-06-10-Exercise functions\main.c" />
     <ClCompile Include="2021-03-02_int_addition.c" />
     <ClCompile Include="2021-03-04-A_int_comparison.c" />
     <ClCompile Include="2021-05-20-A_Student_Stats.c" />
@@ -38,6 +39,8 @@
     <ClCompile Include="2021-06-10-B_Encryption_string.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\2021-06-10-Exercise functions\func_code.h" />
+    <ClInclude Include="..\2021-06-10-Exercise functions\func_declaration.h" />
     <ClInclude Include="2021-06-03-B_AExercise_Instructions.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
