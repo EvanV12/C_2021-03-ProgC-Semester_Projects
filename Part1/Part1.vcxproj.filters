@@ -16,6 +16,12 @@
     <Filter Include="Source Files\2021-06-10-C_Exercise_functions">
       <UniqueIdentifier>{78408f81-7cf9-43a3-8b8e-68ed42db45b3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\2021-06-10-Encryption">
+      <UniqueIdentifier>{60231c72-bd9e-4720-9394-c18a27b136ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2021-06-03-Arrays">
+      <UniqueIdentifier>{b3fe9e1a-17ac-4f5a-ab68-2e26c3d9bc20}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2021-03-02_int_addition.c">
@@ -42,46 +48,46 @@
     <ClCompile Include="2021-05-27-C_Arrays_Exercise.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2021-06-03-A_Multiplication_Board.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021-06-03-B_Arrays_exercise_IMPORTANT.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021-06-03-B_Arrrays_BY_PROF_WayA.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021-06-03-B_Arrrays_BY_PROF_WayB.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021-06-03-C_Rand.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021-06-03-D_Exercise.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021-06-10-A_Encryption.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021-06-10-B_Encryption_int.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021-06-10-B_Encryption_string.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\2021-06-10-Exercise functions\main.c">
       <Filter>Source Files\2021-06-10-C_Exercise_functions</Filter>
     </ClCompile>
+    <ClCompile Include="2021-06-10-A_Encryption.c">
+      <Filter>Source Files\2021-06-10-Encryption</Filter>
+    </ClCompile>
+    <ClCompile Include="2021-06-10-B_Encryption_int.c">
+      <Filter>Source Files\2021-06-10-Encryption</Filter>
+    </ClCompile>
+    <ClCompile Include="2021-06-10-B_Encryption_string.c">
+      <Filter>Source Files\2021-06-10-Encryption</Filter>
+    </ClCompile>
+    <ClCompile Include="2021-06-03-A_Multiplication_Board.c">
+      <Filter>Source Files\2021-06-03-Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="2021-06-03-B_Arrays_exercise_IMPORTANT.c">
+      <Filter>Source Files\2021-06-03-Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="2021-06-03-B_Arrrays_BY_PROF_WayA.c">
+      <Filter>Source Files\2021-06-03-Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="2021-06-03-B_Arrrays_BY_PROF_WayB.c">
+      <Filter>Source Files\2021-06-03-Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="2021-06-03-C_Rand.c">
+      <Filter>Source Files\2021-06-03-Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="2021-06-03-D_Exercise.c">
+      <Filter>Source Files\2021-06-03-Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="2021-06-03-B_AExercise_Instructions.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="..\2021-06-10-Exercise functions\func_code.h">
       <Filter>Source Files\2021-06-10-C_Exercise_functions</Filter>
     </ClInclude>
     <ClInclude Include="..\2021-06-10-Exercise functions\func_declaration.h">
       <Filter>Source Files\2021-06-10-C_Exercise_functions</Filter>
+    </ClInclude>
+    <ClInclude Include="2021-06-03-B_AExercise_Instructions.h">
+      <Filter>Source Files\2021-06-03-Arrays</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
