@@ -22,14 +22,11 @@
     <Filter Include="Source Files\2021-05-27-Arrays">
       <UniqueIdentifier>{b3fe9e1a-17ac-4f5a-ab68-2e26c3d9bc20}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\2021-03-02-Intro">
+      <UniqueIdentifier>{52370829-5229-46d5-8b1f-fd341ec96a24}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2021-03-02_int_addition.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021-03-04-A_int_comparison.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="2021-05-20-A_Student_Stats.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -77,6 +74,12 @@
     </ClCompile>
     <ClCompile Include="2021-05-27-C_Arrays_Exercise.c">
       <Filter>Source Files\2021-05-27-Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="2021-03-02_int_addition.c">
+      <Filter>Source Files\2021-03-02-Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="2021-03-04-A_int_comparison.c">
+      <Filter>Source Files\2021-03-02-Intro</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
