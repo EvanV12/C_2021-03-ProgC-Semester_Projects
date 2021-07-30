@@ -1,7 +1,7 @@
 #pragma warning(disable : 4996)
 #include <stdio.h>
 
-//remove 0 from main to play
+//correct main to play
 
 int main32A(void) {
 
