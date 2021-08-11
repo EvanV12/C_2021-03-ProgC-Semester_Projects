@@ -2,7 +2,7 @@
 #pragma warning(disable:4996)
 
 #include <stdio.h>
-//me don't know if correct
+//me don't know if correct/ need to verify
 int main0610bi()
 {
 
