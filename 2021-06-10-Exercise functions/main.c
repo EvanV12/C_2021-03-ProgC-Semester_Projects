@@ -1,6 +1,7 @@
 #pragma once
 #pragma warning(disable : 4996) // ignores the scanf issue
 
+
 #include <stdio.h>
 #include "func_declaration.h"
 #include "func_code.h"
