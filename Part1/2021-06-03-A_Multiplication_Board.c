@@ -3,6 +3,7 @@
 
 //remove 0 from main to play
 
+
 int main0603a()
 {
     int prop[10][10];
