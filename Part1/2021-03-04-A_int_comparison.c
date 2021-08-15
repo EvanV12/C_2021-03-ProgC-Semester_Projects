@@ -3,6 +3,7 @@
 
 //correct main to play
 
+
 int main34A() {
 
 	int a, b;

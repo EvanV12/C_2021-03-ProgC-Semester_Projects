@@ -3,6 +3,7 @@
 
 //correct main to play
 
+
 int main32A(void) {
 
 	int a, b;
