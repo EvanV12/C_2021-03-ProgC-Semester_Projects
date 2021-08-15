@@ -9,6 +9,7 @@
 
 //remove 0 from main to play
 
+
 int main0527b()
 {
     int a[10], i, sum;
