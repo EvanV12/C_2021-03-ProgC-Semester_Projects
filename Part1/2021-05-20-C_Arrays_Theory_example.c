@@ -17,9 +17,11 @@ int mai0520cn()
         scanf("%d", &marks[i]);
     }
 
+
     for (i = 0; i < 5; i++) {
         printf("O spoudastis %d exei vathmo %d\n", i, marks[i]);
     }
+
 
     return 0;
 }
